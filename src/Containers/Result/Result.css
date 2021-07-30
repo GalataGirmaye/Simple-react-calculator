@@ -1,0 +1,41 @@
+.Result-Container{
+    height: 70px;
+    display:flexbox;
+   flex-flow: column;  
+   box-sizing: border-box;
+   margin-bottom: 10px;
+}
+.Operator-div{
+    width: 20px;
+    height: 100%;
+    background: rgb(23, 37, 85);
+    color: rgb(238, 31, 31);
+    font:large sans-serif;
+    text-align: center;
+    padding: 2px;
+    display: inline;
+    float: left;
+}
+.result{
+    height: 30px;
+    background: inherit;
+    color: rgb(233, 227, 227);
+    font-size: 18px;
+    text-align: end;
+    padding: 5px;
+    margin: 0px 3px 0px 0px;
+    box-sizing: border-box;
+
+}
+
+.input-place{
+    background: white;
+    border: 1px solid black;
+    height:35px;
+    font-size: 18px;
+    text-align: end;
+    padding:  8px 7px 0px 0px;
+    margin: 5px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}

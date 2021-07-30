@@ -1,0 +1,10 @@
+.Operator{
+    background: #18406D;
+    /* opacity: 65%; */
+    width: 65px;
+    height: 70px;
+    font:large sans-serif;
+    border-radius: 2px;
+    border: none;
+    color: white;
+}

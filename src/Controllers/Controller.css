@@ -1,0 +1,43 @@
+ .Controllers{
+    width: 100%;
+    height: fit-content;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.delete-Controller{
+    width:60px;
+    height: 30px;
+    background: rgb(255, 18, 18);
+    color: white;
+    font-size: 19px;
+    font-weight: normal;
+    border-radius: 5px;
+    border: none;
+    margin: 3px;
+}
+
+.ac-Controller{
+    width:50px;
+    height: 30px;
+    background: #292020;
+    color: white;
+    font-size: 19px;
+    font-weight: normal;
+    border-radius: 5px;
+    border: none;
+    margin: 3px 4px;
+}
+.history-Controller{
+    width:35px;
+    height: 30px;
+    background: #292020;   
+    border-radius: 5px;
+    border: none;
+    margin: 3px;
+}
+
+.history-Controller img{
+    height: 27px;
+    width: 27px;
+}

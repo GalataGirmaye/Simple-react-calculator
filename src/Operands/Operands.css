@@ -1,0 +1,9 @@
+.Operand{
+    background: #E36504;
+    color: white;
+    width: 60px;
+    height:60px;
+    font:large sans-serif;
+    border-radius: 2px;
+    border:1px solid #1d1917;
+}
